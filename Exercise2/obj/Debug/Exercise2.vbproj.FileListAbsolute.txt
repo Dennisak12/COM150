@@ -1,0 +1,11 @@
+I:\ComClasses\2017FA\mbliss\2017FA-LEC-COM-150-S03\dak\tutorials-chapter-4b-Dennisak12-master\DecisionMakingControls\Exercise2\bin\Debug\Exercise2.exe.config
+I:\ComClasses\2017FA\mbliss\2017FA-LEC-COM-150-S03\dak\tutorials-chapter-4b-Dennisak12-master\DecisionMakingControls\Exercise2\bin\Debug\Exercise2.exe
+I:\ComClasses\2017FA\mbliss\2017FA-LEC-COM-150-S03\dak\tutorials-chapter-4b-Dennisak12-master\DecisionMakingControls\Exercise2\bin\Debug\Exercise2.pdb
+I:\ComClasses\2017FA\mbliss\2017FA-LEC-COM-150-S03\dak\tutorials-chapter-4b-Dennisak12-master\DecisionMakingControls\Exercise2\bin\Debug\Exercise2.xml
+I:\ComClasses\2017FA\mbliss\2017FA-LEC-COM-150-S03\dak\tutorials-chapter-4b-Dennisak12-master\DecisionMakingControls\Exercise2\obj\Debug\Exercise2.vbprojResolveAssemblyReference.cache
+I:\ComClasses\2017FA\mbliss\2017FA-LEC-COM-150-S03\dak\tutorials-chapter-4b-Dennisak12-master\DecisionMakingControls\Exercise2\obj\Debug\Exercise2.Exercise2.resources
+I:\ComClasses\2017FA\mbliss\2017FA-LEC-COM-150-S03\dak\tutorials-chapter-4b-Dennisak12-master\DecisionMakingControls\Exercise2\obj\Debug\Exercise2.Resources.resources
+I:\ComClasses\2017FA\mbliss\2017FA-LEC-COM-150-S03\dak\tutorials-chapter-4b-Dennisak12-master\DecisionMakingControls\Exercise2\obj\Debug\Exercise2.vbproj.GenerateResource.Cache
+I:\ComClasses\2017FA\mbliss\2017FA-LEC-COM-150-S03\dak\tutorials-chapter-4b-Dennisak12-master\DecisionMakingControls\Exercise2\obj\Debug\Exercise2.exe
+I:\ComClasses\2017FA\mbliss\2017FA-LEC-COM-150-S03\dak\tutorials-chapter-4b-Dennisak12-master\DecisionMakingControls\Exercise2\obj\Debug\Exercise2.xml
+I:\ComClasses\2017FA\mbliss\2017FA-LEC-COM-150-S03\dak\tutorials-chapter-4b-Dennisak12-master\DecisionMakingControls\Exercise2\obj\Debug\Exercise2.pdb
