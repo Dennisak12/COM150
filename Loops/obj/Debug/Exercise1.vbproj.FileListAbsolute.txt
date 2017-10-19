@@ -1,0 +1,11 @@
+C:\Users\Dak\Desktop\tutorials-chapter5-loops-Dennisak12-master\Chapter5LoopExercises\Loops\bin\Debug\Loops.exe.config
+C:\Users\Dak\Desktop\tutorials-chapter5-loops-Dennisak12-master\Chapter5LoopExercises\Loops\bin\Debug\Loops.exe
+C:\Users\Dak\Desktop\tutorials-chapter5-loops-Dennisak12-master\Chapter5LoopExercises\Loops\bin\Debug\Loops.pdb
+C:\Users\Dak\Desktop\tutorials-chapter5-loops-Dennisak12-master\Chapter5LoopExercises\Loops\bin\Debug\Loops.xml
+C:\Users\Dak\Desktop\tutorials-chapter5-loops-Dennisak12-master\Chapter5LoopExercises\Loops\obj\Debug\Exercise1.vbprojResolveAssemblyReference.cache
+C:\Users\Dak\Desktop\tutorials-chapter5-loops-Dennisak12-master\Chapter5LoopExercises\Loops\obj\Debug\Loops.Exercise1.resources
+C:\Users\Dak\Desktop\tutorials-chapter5-loops-Dennisak12-master\Chapter5LoopExercises\Loops\obj\Debug\Loops.Resources.resources
+C:\Users\Dak\Desktop\tutorials-chapter5-loops-Dennisak12-master\Chapter5LoopExercises\Loops\obj\Debug\Exercise1.vbproj.GenerateResource.Cache
+C:\Users\Dak\Desktop\tutorials-chapter5-loops-Dennisak12-master\Chapter5LoopExercises\Loops\obj\Debug\Loops.exe
+C:\Users\Dak\Desktop\tutorials-chapter5-loops-Dennisak12-master\Chapter5LoopExercises\Loops\obj\Debug\Loops.xml
+C:\Users\Dak\Desktop\tutorials-chapter5-loops-Dennisak12-master\Chapter5LoopExercises\Loops\obj\Debug\Loops.pdb
