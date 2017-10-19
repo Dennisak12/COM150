@@ -7,7 +7,7 @@
         Dim n As Integer
 
         'start for loop
-        For n = 1 To 10
+        For n = 5 To 1 Step -1
             lstOut.Items.Add(n)
         Next
 
