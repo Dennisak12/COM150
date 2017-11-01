@@ -1,0 +1,11 @@
+C:\Users\Dak\Desktop\chapter7\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Dak\Desktop\chapter7\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Dak\Desktop\chapter7\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Dak\Desktop\chapter7\Arrays\Arrays\bin\Debug\Arrays.xml
+C:\Users\Dak\Desktop\chapter7\Arrays\Arrays\obj\Debug\Exercise1.vbprojResolveAssemblyReference.cache
+C:\Users\Dak\Desktop\chapter7\Arrays\Arrays\obj\Debug\Arrays.Exercise1.resources
+C:\Users\Dak\Desktop\chapter7\Arrays\Arrays\obj\Debug\Arrays.Resources.resources
+C:\Users\Dak\Desktop\chapter7\Arrays\Arrays\obj\Debug\Exercise1.vbproj.GenerateResource.Cache
+C:\Users\Dak\Desktop\chapter7\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Dak\Desktop\chapter7\Arrays\Arrays\obj\Debug\Arrays.xml
+C:\Users\Dak\Desktop\chapter7\Arrays\Arrays\obj\Debug\Arrays.pdb
